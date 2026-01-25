@@ -10,7 +10,7 @@ Analyzed historical stock market and trading data to uncover insights that impro
 - Identify top-performing and underperforming stocks and sectors
 - Create interactive dashboards for fast and effective investment analysis
 
-## Tools & Technologies
+## Tools & Technologies 
 - **Excel**: Data cleaning, pivot tables, charts
 - **SQL**: Querying, aggregations, joins, and financial metric calculations
 - **Power BI**: Dashboard creation, data modeling, KPI visualization
