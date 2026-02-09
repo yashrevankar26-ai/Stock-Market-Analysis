@@ -1,4 +1,4 @@
-q# Stock-Market-Analytics-Project
+# Stock-Market-Analytics-Project
 Revolutionizing investment analysis with data-driven insights! 📈 Explore my comprehensive data analytics project for the stock market, featuring: 📊 Power BI Dashboards 📈 Tableau Dashboards 🧮 SQL Queries 📂 Excel Dashboards
 
 ## Project Overview
