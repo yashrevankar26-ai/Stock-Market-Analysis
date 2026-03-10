@@ -13,7 +13,7 @@ Analyzed historical stock market and trading data to uncover insights that impro
 ## Tools & Technologies
 - **Excel**: Data cleaning, pivot tables, charts
 - **SQL**: Querying, aggregations, joins, and financial metric calculations
-- **Power BI**: Dashboard creation, data modeling, KPI visualization
+- **Power BI**: Dashboard creation, data modeling, KPI visualization 
 - **Tableau**: Advanced visualizations, comparative and trend analysis
 
 ## Key Insights
