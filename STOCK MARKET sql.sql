@@ -8,7 +8,7 @@ Select round(avg(avg_vol),0) as Avg_Daily_Trading_Volume from fact_Daily_Prices;
 
 Select concat(round(stddev(return_pct)*100,0) , "%") as Volatility from fact_Dtrades;
 
-Select based_on_return as Top_Performing_Sector from stocks limit 1;
+Select based_on_return as Top_Performing_Sector from stocks limit 1; 
 
 Select concat(round(((sum(current_value) - sum(initial_value)) / sum(initial_value))*100, 0), "%") as Portfolio_Return from stocks;
 
