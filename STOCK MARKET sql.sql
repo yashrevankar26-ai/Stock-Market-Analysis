@@ -2,7 +2,7 @@ use stock_market;
 show tables;
 
 -- KPIs
-Select concat(round(sum(Market_Capitalization)/1000000,0), "M") as Total_Market_Capatilization from stocks;
+Select concat(round(sum(Market_Capitalization)/1000000,0), "M") as Total_Market_Capatilization from stocks; 
 
 Select round(avg(avg_vol),0) as Avg_Daily_Trading_Volume from fact_Daily_Prices;
 
