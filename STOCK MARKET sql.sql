@@ -10,7 +10,7 @@ Select concat(round(stddev(return_pct)*100,0) , "%") as Volatility from fact_Dtr
 
 Select based_on_return as Top_Performing_Sector from stocks limit 1; 
 
-Select concat(round(((sum(current_value) - sum(initial_value)) / sum(initial_value))*100, 0), "%") as Portfolio_Return from stocks; 
+Select concat(round(((sum(current_value) - sum(initial_value)) / sum(initial_value))*100, 0), "%") as Portfolio_Return from stocks;
 
 Select concat(round(sum(quantity_sold)/1000, 0), "K") as Total_Quantity_Sold from fact_dtrades;
 
