@@ -6,7 +6,7 @@ Select concat(round(sum(Market_Capitalization)/1000000,0), "M") as Total_Market_
 
 Select round(avg(avg_vol),0) as Avg_Daily_Trading_Volume from fact_Daily_Prices;
 
-Select concat(round(stddev(return_pct)*100,0) , "%") as Volatility from fact_Dtrades;
+Select concat(round(stddev(return_pct)*100,0) , "%") as Volatility from fact_Dtrades; 
 
 Select based_on_return as Top_Performing_Sector from stocks limit 1; 
 
