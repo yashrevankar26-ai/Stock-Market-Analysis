@@ -8,7 +8,7 @@ Analyzed historical stock market and trading data to uncover insights that impro
 - Analyze stock price trends, trading volumes, and sector performance. 
 - Study portfolio performance and market behavior. 
 - Identify top-performing and underperforming stocks and sectors.
-- Create interactive dashboards for fast and effective investment analysis. 
+- Create interactive dashboards for fast and effective investment analysis.
 
 ## Tools & Technologies
 - **Excel**: Data cleaning, pivot tables, charts
