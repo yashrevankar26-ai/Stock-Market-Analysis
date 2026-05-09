@@ -1,5 +1,5 @@
 # Stock-Market-Analytics-Project
-Revolutionizing investment analysis with data-driven insights! 📈 Explore my comprehensive data analytics project for the stock market, featuring: 📊 Power BI Dashboards 📈 Tableau Dashboards 🧮 SQL Queries 📂 Excel Dashboards. 
+Revolutionizing investment analysis with data-driven insights! 📈 Explore my comprehensive data analytics project for the stock market, featuring: 📊 Power BI Dashboards 📈 Tableau Dashboards 🧮 SQL Queries 📂 Excel Dashboards.
 
 ## Project Overview
 Analyzed historical stock market and trading data to uncover insights that improve investment decisions, portfolio performance, and market understanding. Interactive dashboards provide actionable insights for investors and analysts.
