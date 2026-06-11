@@ -3,7 +3,7 @@ Revolutionizing investment analysis with data-driven insights! 📈 Explore my c
 
 ## Project Overview
 Analyzed historical stock market and trading data to uncover insights that improve investment decisions, portfolio performance, and market understanding. Interactive dashboards provide actionable insights for investors and analysts.
- 
+
 ## Objectives
 - Analyze stock price trends, trading volumes, and sector performance.
 - Study portfolio performance and market behavior. 
