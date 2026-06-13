@@ -1,5 +1,5 @@
 use stock_market;
-show tables;
+show tables; 
 
 -- KPIs 
 Select concat(round(sum(Market_Capitalization)/1000000,0), "M") as Total_Market_Capatilization from stocks;
