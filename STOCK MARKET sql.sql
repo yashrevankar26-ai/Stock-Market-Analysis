@@ -1,4 +1,4 @@
-use stock_market;
+use stock_market; 
 show tables;
 
 -- KPIs
